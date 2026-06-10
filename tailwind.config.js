@@ -38,10 +38,10 @@ module.exports = {
       minHeight: {
         590: '590px',
       },
-      backgroundImage: {
-        'hero-pattern':
-          "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
-      },
+    backgroundImage: {
+ 'hero-pattern': "url('https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=1600&q=80')",
+
+}
     },
   },
   plugins: [],
